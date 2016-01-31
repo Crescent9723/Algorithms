@@ -1,4 +1,4 @@
-package TwoThreeTree;
+package dataStructure.TwoThreeTree;
 
 public class Node {
 	
